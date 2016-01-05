@@ -1,0 +1,40 @@
+.main-picture {
+
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin: 2px;
+}
+
+.selection-image {
+
+	width:75px;
+	height:75px;
+}
+
+.col-md-6 ul li {
+
+	display: inline;
+
+}
+
+.col-lg-2 ul {
+
+	list-style-type: none;
+	float: right;
+	margin: -10px;
+} 
+
+
+
+li {
+
+	margin: 5px;
+}
+
+.selected {
+
+				border-color: blue;
+				border-style: solid;
+				border-width: 1px;
+			}
